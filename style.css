@@ -104,6 +104,7 @@ body {
   font-size: 32px;
   font-weight: 700;
   color: #00abf0;
+  text-shadow: 2px 2px 4px #000000;
   z-index: 2;
 }
 
@@ -270,6 +271,7 @@ body {
 
   .home-content h1 {
     font-size: 40px;
+    
   }
 
   .home-content h3 {
